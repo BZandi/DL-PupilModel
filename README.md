@@ -1,11 +1,11 @@
 # *Code Repository* <br/>Deep learning-based pupil model predicts time and wavelength dependent light responses
 
-[![Published](https://img.shields.io/badge/Scientific%20Reports-Published-green)](www.nature.com/articles/s41598-020-79908-5)
+[![Published](https://img.shields.io/badge/Scientific%20Reports-Published-green)](https://www.nature.com/articles/s41598-020-79908-5)
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--020--79908--5-blue)](https://doi.org/10.1038/s41598-020-79908-5)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](http://creativecommons.org/licenses/by/4.0/)
 
 This repository provides the official implementation of a non-parametric temporal pupil light response model proposed in the article *"Deep learning-based pupil model predicts time and wavelength-dependent light responses"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lt/team_lt/mitarbeiter_lt/mitarbeiterdetails_sharq_65600.de.jsp) and [Tran Quoc Khanh](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lt/team_lt/mitarbeiter_lt/mitarbeiterdetails_sharq_34952.de.jsp) from the Technical University of Darmstadt.<br/>
-[[**Paper**]](www.nature.com/articles/s41598-020-79908-5) [[**Supplementary materials**]]()
+[[**Paper**]](https://www.nature.com/articles/s41598-020-79908-5) [[**Supplementary materials**]](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-79908-5/MediaObjects/41598_2020_79908_MOESM1_ESM.pdf)
 
 Pupil light response models aim to predict the pupil diameter in millimetres using a light spectrum or derived photometric quantities. State-of-the-art pupil models can only calculate a static diameter at an equilibrium state with the luminance as a main dependent parameter [[1]](#1). A recent work showed that such L- and M-cone based pupil models have prediction errors of up to 1.21 mm, mainly caused by the missing time dependence of current pupil functions and the lack of integrating the contribution of the intrinsically photosensitive ganglion cells [[2]](#2).
 
@@ -215,21 +215,20 @@ Zandi, B., Klabes, J. & Khanh, T.Q. Prediction accuracy of L- and M-cone based h
 
 Please consider to cite our work if you find this repository or our results useful for your research:
 
---FILL--
+Zandi, B., Khanh, T.Q. Deep learning-based pupil model predicts time and spectral dependent light responses. *Sci Rep* **11,** 841 (2021). https://doi.org/10.1038/s41598-020-79908-5
 
 ```bib
 @article{Zandi2021,
-title = {{}},
-author = {},
-doi = {},
-issn = {},
-journal = {},
-month = {},
-number = {},
-pages = {},
-url = {},
-volume = {},
-year = {}}
+author = {Zandi, Babak and Khanh, Tran Quoc},
+doi = {10.1038/s41598-020-79908-5},
+issn = {2045-2322},
+journal = {Scientific Reports},
+number = {1},
+pages = {841},
+title = {{Deep learning-based pupil model predicts time and spectral dependent light responses}},
+url = {https://doi.org/10.1038/s41598-020-79908-5},
+volume = {11},
+year = {2021}}
 ```
 
 ## References & Sources
@@ -240,7 +239,7 @@ year = {}}
 
 <a id="3">[3]:</a> Xiaofei Fan & Gang Yao. Modeling Transient Pupillary Light Reflex Induced by a Short Light Flash. *IEEE Trans. Biomed. Eng.* **58**, 36–42 (2011).
 
-<a id="4">[4]:</a> --FILL--
+<a id="4">[4]:</a> Zandi, B., Khanh, T.Q. Deep learning-based pupil model predicts time and spectral dependent light responses. *Sci Rep* **11,** 841 (2021). https://doi.org/10.1038/s41598-020-79908-5
 
 ## License
 
