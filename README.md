@@ -207,7 +207,7 @@ For the interested readership, we highly recommend to check out the Matlab imple
 
 https://github.com/spitschan/WatsonYellott2012_PupilSize
 
-An analysis of the prediction errors such classical L- and M-cone based pupil models was performed in the following publication:
+An analysis of the prediction errors of such classical L- and M-cone based pupil models was performed in the following publication:
 
 Zandi, B., Klabes, J. & Khanh, T.Q. Prediction accuracy of L- and M-cone based human pupil light models. Sci Rep 10, 10988 (2020). https://doi.org/10.1038/s41598-020-67593-3
 
@@ -243,9 +243,9 @@ year = {2021}}
 
 ## License
 
-The Twitter icon <img src="img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from: https://about.twitter.com/de/company/brand-resources.html
+The Twitter icon <img src="img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://about.twitter.com/de/company/brand-resources.html
 
-The Google Scholar icon <img src="img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from: https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg
+The Google Scholar icon <img src="img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
 
