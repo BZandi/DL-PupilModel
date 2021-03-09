@@ -19,8 +19,8 @@ We developed the first concept of a pupil model, which can predict the temporal 
 
 
 :email: **Correspondence:** zandi@lichttechnik.tu-darmstadt.de<br/>
-<img src="img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20> **Google Scholar Profile:** [Babak Zandi](https://scholar.google.de/citations?user=LSA7SdAAAAAJ&hl=de)<br/>
-<img src="img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20> **Twitter:** [@BkZandi](https://twitter.com/bkzandi)
+**Google Scholar Profile:** [Babak Zandi](https://scholar.google.de/citations?user=LSA7SdAAAAAJ&hl=de)<br/>
+**Twitter:** [@BkZandi](https://twitter.com/bkzandi)
 
 ## Code Overview
 This repository contains the neural network models in the folder [`Python/A03_Models/FF`](Python/A03_Models/FF), which were trained with an intrasubject [`TrainData_Individual_Subject.csv`](Python/A00_Data/TrainData_Individual_Subject.csv) and intersubject [`TrainData_Many_Subject.csv`](Python/A00_Data/TrainData_Many_Subject.csv) pupil light response dataset. The combined model itself is implemented as in the function [`NNCombinedModel.m`](Functions/NNCombinedModel.m) using Mathworks Matlab. The function predicts the temporal pupil diameter from three different light metrics variants as input parameters:
@@ -242,10 +242,6 @@ year = {2021}}
 <a id="4">[4]:</a> Zandi, B., Khanh, T.Q. Deep learning-based pupil model predicts time and spectral dependent light responses. *Sci Rep* **11,** 841 (2021). https://doi.org/10.1038/s41598-020-79908-5
 
 ## License
-
-The Twitter icon <img src="img/Twitter_Logo_Blue.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://about.twitter.com/de/company/brand-resources.html
-
-The Google Scholar icon <img src="img/Google_Scholar_logo.svg" alt="Icon Google Scholar" width=20>in the folder `img/`was taken from:<br/> https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
 
