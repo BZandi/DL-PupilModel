@@ -5,7 +5,11 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](http://creativecommons.org/licenses/by/4.0/)
 
 This repository provides the official implementation of a deep learning-based temporal pupil light response model proposed in the article *"Deep learning-based pupil model predicts time and wavelength-dependent light responses"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lichttechnik_lt/team_lt/mitarbeiter_lt_detail_65600.en.jsp) and [Tran Quoc Khanh](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lichttechnik_lt/team_lt/mitarbeiter_lt_detail_34952.en.jsp) from the Technical University of Darmstadt.<br/>
-[[**Paper**]](https://www.nature.com/articles/s41598-020-79908-5) [[**Supplementary materials**]](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-79908-5/MediaObjects/41598_2020_79908_MOESM1_ESM.pdf)
+
+<div align="center">
+<a style="font-weight:bold" href="https://www.nature.com/articles/s41598-020-79908-5">[Paper]</a>
+<a style="font-weight:bold" href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-79908-5/MediaObjects/41598_2020_79908_MOESM1_ESM.pdf">[Supplementary materials]</a>
+</div> <br/>
 
 Pupil light response models aim to predict the pupil diameter in millimetres using a light spectrum or derived photometric quantities. State-of-the-art pupil models can only calculate a static diameter at an equilibrium state with the luminance as a main dependent parameter [[1]](#1). A recent work showed that such L- and M-cone based pupil models have prediction errors of up to 1.21 mm, mainly caused by the missing time dependence of current pupil functions and the lack of integrating the contribution of the intrinsically photosensitive ganglion cells [[2]](#2).
 
