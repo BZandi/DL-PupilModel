@@ -11,7 +11,7 @@ This repository provides the official implementation of a deep learning-based te
 <div align="center">
 <a style="font-weight:bold" href="https://www.nature.com/articles/s41598-020-79908-5">[Paper]</a>
 <a style="font-weight:bold" href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-79908-5/MediaObjects/41598_2020_79908_MOESM1_ESM.pdf">[Supplementary materials]</a>
-</div> <br/>
+</div> 
 
 ---
 
