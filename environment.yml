@@ -1,0 +1,10 @@
+name: PupilModelENV
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch=1.4.*
+  - pip
+  - pip:
+      - pytorch-lightning == 0.7.6
