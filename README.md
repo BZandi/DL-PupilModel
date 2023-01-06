@@ -4,7 +4,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--020--79908--5-blue)](https://doi.org/10.1038/s41598-020-79908-5)
 [![GPL3](https://img.shields.io/badge/License-GNU%20GPLv3-blue"/)](https://choosealicense.com/licenses/gpl-3.0/#)
 
-This repository provides the official implementation of a deep learning-based temporal pupil light response model proposed in the article *"Deep learning-based pupil model predicts time and wavelength-dependent light responses"* authored by [Babak Zandi](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lichttechnik_lt/team_lt/mitarbeiter_lt_detail_65600.en.jsp) and [Tran Quoc Khanh](https://www.lichttechnik.tu-darmstadt.de/fachgebiet_lichttechnik_lt/team_lt/mitarbeiter_lt_detail_34952.en.jsp) from the Technical University of Darmstadt.<br/>
+This repository provides the official implementation of a deep learning-based temporal pupil light response model proposed in the article *"Deep learning-based pupil model predicts time and wavelength-dependent light responses"* authored by Babak Zandi and Tran Quoc Khanh from the Technical University of Darmstadt.<br/>
 
 ---
 
